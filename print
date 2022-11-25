@@ -1,0 +1,6 @@
+public class ContactListUI
+{
+public static void main (String[] args)
+{ ContactList c1 = new ContactList();
+System.out.println(c1);
+}}
